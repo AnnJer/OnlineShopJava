@@ -1,0 +1,29 @@
+
+.container{
+    width: 30%;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: 2px 2px 2px #505050;
+    background:#f0f0f0;
+}
+
+.img{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imgLogo {
+    width: 17%;
+    float: right;
+
+
+}
+
+.form-popup {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 14px;
+}
